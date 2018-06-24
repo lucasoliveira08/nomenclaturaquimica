@@ -1,0 +1,13 @@
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\bin\Debug\Quimica.exe.config
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\obj\Debug\Quimica.csprojResolveAssemblyReference.cache
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\bin\Debug\Quimica.exe
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\bin\Debug\Quimica.pdb
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\obj\Debug\Quimica.exe
+c:\users\tiago\documents\visual studio 2013\Projects\Quimica\Quimica\obj\Debug\Quimica.pdb
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\bin\Debug\Quimica.exe.config
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\bin\Debug\Quimica.exe
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\bin\Debug\Quimica.pdb
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\obj\Debug\Quimica.csprojResolveAssemblyReference.cache
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\obj\Debug\Quimica.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\obj\Debug\Quimica.exe
+C:\Users\marco\Desktop\Lucas\Quimica\Quimica\obj\Debug\Quimica.pdb
